@@ -40,23 +40,24 @@ li {
 }
 
 .main img {
-    width: 650px;
+    width: 630px;
+    height: 700px;
     border-radius: 50%;
 }
 
 .title {
     font-size: 70px;
-    width: 50%;
-    /* word-wrap: break-word; */
-    /* white-space: normal; */
-    /* overflow-wrap: break-word; */
-}
-
-p {
     max-width: 50%;
 }
+
 span {
     color: rgb(242, 181, 0);
+}
+
+.main p {
+    max-width: 50%;
+    text-align: right;
+    font-size: 20px;
 }
 
 button {
