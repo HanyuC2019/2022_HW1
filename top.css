@@ -46,11 +46,15 @@ li {
 
 .title {
     font-size: 70px;
+    width: 50%;
     /* word-wrap: break-word; */
     /* white-space: normal; */
     /* overflow-wrap: break-word; */
 }
 
+p {
+    max-width: 50%;
+}
 span {
     color: rgb(242, 181, 0);
 }
